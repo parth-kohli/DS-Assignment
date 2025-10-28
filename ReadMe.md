@@ -5,8 +5,16 @@ Q1-
     - The posts are stored like a stack. i.e. the latest one is added as the head
     - Comments and replies are stored as queues with the latest one at the end
     - The input is taken in multiple lines with different prompts
+    - To Run:
+
+        - make
+        - ./main
 Q2- 
 
     - No value is stored for a node 
     - The length given should be equal to the length of the level order traversal
     - The prompt requires both left and right limit
+    - To Run: 
+
+        - make
+        - ./Astroworld

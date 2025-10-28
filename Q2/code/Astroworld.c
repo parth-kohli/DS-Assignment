@@ -138,7 +138,6 @@ int main(){
         }
         index++;
     }
-    int h = height(root);
     int count = 0;
     if (numberofphones(root, &count) == 0) {
         count++;
